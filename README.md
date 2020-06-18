@@ -1,7 +1,7 @@
 # Yield and Blocks
 
 ## Objectives
-
+[]
 1. Understand how the `yield` keyword works in Ruby.
 2. Practice using `yield` with blocks.
 3. Gain a deeper understanding of the common iterator `#each`.
